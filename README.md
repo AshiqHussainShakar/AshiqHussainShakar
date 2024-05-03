@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshiqHussainShakar
 - 👀 I’m interested in coding and chemistry
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on coding and chemistry
+- 💞️ I’m looking for interested peopleto collaborate on coding and chemistry
 - 📫 How to reach me 03456332993 ,hahs786@yahoo.com and whatsapp 03456332993
 
 <!---
