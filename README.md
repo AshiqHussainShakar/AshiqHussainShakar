@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshiqHussainShakar
+- 👋 Hi, I’m Ashiq Hussain Shakar
 - 👀 I’m interested in coding and chemistry
 - 🌱 I’m currently learning js
 - 💞️ I’m looking for interested people to collaborate on coding and chemistry
