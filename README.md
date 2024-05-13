@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and chemistry
 - 🌱 I’m currently learning js
 - 💞️ I’m looking for interested people to collaborate on coding and chemistry
-- 📫 Approach me through
+- 📫 I can be approached through
 -  03456332993
 -  hahs786@yahoo.com and
 -   whatsapp 03456332993
